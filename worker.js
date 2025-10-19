@@ -1,13 +1,13 @@
 // Konfigurasi Utama
 const config = {
   // UUID VLESS (ganti dengan UUID Anda)
-  uuid: "your-uuid-here",
+  uuid: "d758164a-ffdd-433d-b198-e171bed502b7",
   
   // Domain worker bawaan (untuk halaman palsu)
-  workerDomain: "your-worker.your-subdomain.workers.dev",
+  workerDomain: "cdi.ahem7553.workers.dev",
   
   // Domain kustom (untuk proxy)
-  customDomain: "proxy.example.com",
+  customDomain: "cdi.ahem7553@gmail.com",
   
   // Path untuk VLESS (gunakan path yang tidak mencurigakan)
   vlessPath: "/cdn-cgi/trace",
